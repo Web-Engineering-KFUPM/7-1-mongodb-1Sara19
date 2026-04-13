@@ -233,5 +233,6 @@ await createStudents();
 await readStudents();
 await updateStudent();
 await deleteStudent();
-
+await readStudents();
+await mongoose.disconnect();
 await mongoose.connection.close();
