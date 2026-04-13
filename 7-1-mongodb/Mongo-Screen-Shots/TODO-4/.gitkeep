@@ -1,0 +1,1 @@
+mongosh "mongodb+srv://cluster0.gj5pae0.mongodb.net/" --apiVersion 1 --username s202245780_db_user --password zsnvhXSqYUUfhCPo
